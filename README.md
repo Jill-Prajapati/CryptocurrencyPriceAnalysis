@@ -60,7 +60,7 @@ The model predictions were compared with the actual cryptocurrency prices to eva
 
 ### Actual vs Predicted Prices
 
-*Add your visualization here.*
+![crypto_price_trend](images/crypto_price_trend.png)
 
 ## Project Files
 

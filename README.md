@@ -61,6 +61,10 @@ The model predictions were compared with the actual cryptocurrency prices to eva
 ### Actual vs Predicted Prices
 
 ![crypto_price_trend](images/crypto_price_trend.png)
+![Bitcoin_price_pred](images/BTC_Pred.png)
+![Ethereum_price_pred](images/ETH_Pred.png)
+![Cardona_price_pred](images/ADA_Pred.png)
+![Dogecoin_price_pred](images/DOGE_Pred.png)
 
 ## Project Files
 

@@ -76,7 +76,7 @@ The model predictions were compared with the actual cryptocurrency prices to eva
 1. Download or clone this repository.
 2. Open `Cryptocurrency_Price_Prediction.ipynb` in Google Colab or Jupyter Notebook.
 3. Install the required Python libraries.
-4. Load the dataset from the `data/` folder.
+4. Load the dataset from the `data/` folder or run the ipynb file to automatically download the data while running.
 5. Run the notebook cells sequentially.
 
 ## Author
